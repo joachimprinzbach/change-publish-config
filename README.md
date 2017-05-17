@@ -1,4 +1,4 @@
-# change-publish-config
+# change-publish-config [![Build Status](https://travis-ci.org/joachimprinzbach/change-publish-config.svg?branch=master)](https://travis-ci.org/joachimprinzbach/change-publish-config)
 
 > Change the publishConfig registry property in package.json
 
