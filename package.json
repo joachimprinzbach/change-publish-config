@@ -1,6 +1,6 @@
 {
   "name": "change-publish-config",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Change the publishConfig registry property in package.json",
   "files": [
     "index.js"
