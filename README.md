@@ -11,10 +11,10 @@ $ npm install --save change-publish-config
 
 
 ## Usage
+```js
+const changePublishConfig = require('change-publish-config');
 
-const change-publish-config = require('change-publish-config');
-
-change-publish-config('registry-url', 'path-to-package.json');
+changePublishConfig('registry-url', 'path-to-package.json');
 ```
 
 ## License
