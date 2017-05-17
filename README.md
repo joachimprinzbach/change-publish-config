@@ -19,4 +19,4 @@ changePublishConfig('registry-url', 'path-to-package.json');
 
 ## License
 
-MIT © [Joachim Prinzbach]
+MIT © Joachim Prinzbach
